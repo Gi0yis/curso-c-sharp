@@ -1,0 +1,14 @@
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.GeneratedMSBuildEditorConfig.editorconfig
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.AssemblyInfoInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.AssemblyInfo.cs
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.csproj.CoreCompileInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/bin/Debug/net8.0/ValoresYParametros
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/bin/Debug/net8.0/ValoresYParametros.deps.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/bin/Debug/net8.0/ValoresYParametros.runtimeconfig.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/bin/Debug/net8.0/ValoresYParametros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/bin/Debug/net8.0/ValoresYParametros.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/refint/ValoresYParametros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ValoresYParametros.genruntimeconfig.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/ValoresYParametros/obj/Debug/net8.0/ref/ValoresYParametros.dll

@@ -1,0 +1,14 @@
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll

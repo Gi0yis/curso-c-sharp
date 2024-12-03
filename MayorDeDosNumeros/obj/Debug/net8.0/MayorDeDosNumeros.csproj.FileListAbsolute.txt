@@ -1,0 +1,14 @@
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/bin/Debug/net8.0/MayorDeDosNumeros
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/bin/Debug/net8.0/MayorDeDosNumeros.deps.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/bin/Debug/net8.0/MayorDeDosNumeros.runtimeconfig.json
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/bin/Debug/net8.0/MayorDeDosNumeros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/bin/Debug/net8.0/MayorDeDosNumeros.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.AssemblyInfoInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.AssemblyInfo.cs
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.csproj.CoreCompileInputs.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/refint/MayorDeDosNumeros.dll
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.pdb
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/MayorDeDosNumeros.genruntimeconfig.cache
+/home/gi0yis/Documents/Cursos/C#/CsharpProjects/MayorDeDosNumeros/obj/Debug/net8.0/ref/MayorDeDosNumeros.dll
